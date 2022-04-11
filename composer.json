@@ -1,0 +1,12 @@
+{
+    "name": "rodrigogomess/buscador-cursos",
+    "description": "Projeto que busca cursos no site da alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Rodrigo Gomes",
+            "email": "cklrod@hotmail.com"
+        }
+    ],
+    "require": {}
+}
