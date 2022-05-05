@@ -9,9 +9,9 @@
         }
     ],
     "require": {
-        "guzzlehttp/guzzle": "^7.4",
-        "symfony/dom-crawler": "^5.4",
-        "symfony/css-selector": "^5.4"
+        "guzzlehttp/guzzle": "^6.4",
+        "symfony/dom-crawler": "^4.2",
+        "symfony/css-selector": "^4.2"
     },
     "autoload": {
         "psr-4": {
